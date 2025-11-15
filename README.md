@@ -43,13 +43,7 @@ Skills: Data Visualization (Tableau), Dashboarding
 
 (Click into the Deloitte-Simulation folder in this repository to see the workbooks and files for this project.)
 
-2. (Add Your Next Project Here)
 
-Description: (e.g., "Analyzed customer transaction data for the KPMG virtual internship...")
-
-Skills:
-
-(Link to project folder)
 
 🎓 Certifications
 
